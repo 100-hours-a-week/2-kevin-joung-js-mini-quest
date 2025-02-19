@@ -11,6 +11,7 @@ console.log('End');
 /*
 Start
 End
-Async Oo
+Async Operation Complete
  */
 // setTimeout으로 1초 후에 콜백 함수를 실행하도록 하고, 이후 코드를 실행
+// 1초 후 이벤트 루프가 콜백 함수를 실행
